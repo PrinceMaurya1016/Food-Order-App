@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="descriptionFood1">Meaty portobello mushrooms make for the perfect vegetarian burger</string>
+    <string name="get_10_off_using_creadit_card">Get 10% off using creadit card.</string>
+    <string name="fast_delivery_within_1h_under_5km">Fast delivery within 1h under 5km.</string>
+    <string name="get_extra_coupon_and_cashback">Get Extra coupon, and cashback.</string>
+    <string name="get_veg_chaumin_very_fast_devlivery_under_5km">Get veg chaumin very fast devlivery under 5km</string>
+    <string name="use_gold_coupon_to_get_free">Use gold coupon to get free.</string>
+    <string name="get_10_off_using_silver_coupon_or_creadit_card">Get 10% off using silver coupon or creadit card</string>
+    <string name="fast_delivery_within_20min_under_2km">Fast delivery within 20min under 2km.</string>
+    <string name="burger">Burger</string>
+    <string name="veg_burger">Veg Burger</string>
+    <string name="chaumin">Chaumin</string>
+</resources>
