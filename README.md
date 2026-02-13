@@ -17,7 +17,13 @@
 - Android Studio
 
 # ScreenShots:
-<img src="Screenshots/Home%20screen.png" width="300"/>
+<p align="center">
+  <img src="Screenshots/Home%20screen.png" width="250"/>
+  <img src="Screenshots/Order%20screen.png" width="250"/>
+  <img src="Screenshots/Manage%20food%20screen.png" width="250"/>
+  <img src="Screenshots/Deleting%20screen.png" width="250"/>
+</p>
+
 
 
 
