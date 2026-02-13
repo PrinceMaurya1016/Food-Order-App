@@ -1,8 +1,8 @@
 # Food Order APP
 
 # Overview:
-##A simple Food Ordering Android Application developed using Java, XML, and MySQL.
-##This app allows users to enter basic details, place food orders, and manage orders, such as updating and deleting.
+  A simple Food Ordering Android Application developed using Java, XML, and MySQL.
+  This app allows users to enter basic details, place food orders, and manage orders, such as updating and deleting.
 
 # Features:
 - View available food items
@@ -15,7 +15,6 @@
 - XML
 - MySQL
 - Android Studio
-----
 
 # ScreenShots:
 
