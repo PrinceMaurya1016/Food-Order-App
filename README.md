@@ -17,7 +17,7 @@
 - Android Studio
 
 # ScreenShots:
-![Home Screen](Screenshots/Home%20screen.png)
+<img src="Screenshots/Home%20screen.png" width="300"/>
 
 
 
