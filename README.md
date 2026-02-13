@@ -17,7 +17,7 @@
 - Android Studio
 
 # ScreenShots:
-![Home Screen](Screenshots/Home screen.png)
+![Home Screen](Screenshots/Home%20screen.png)
 
 
 
